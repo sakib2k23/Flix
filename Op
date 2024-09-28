@@ -1,0 +1,23 @@
+
+    {
+        "iconUrl": "https://apkrabi.com/uploads/2023/4/vegamovies-icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 28138,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 43,
+        "internalName": "VegaMovies",
+        "description": "Includes LuxMovies, Rogmovies",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
+        "name": "VegaMovies"
+    },
