@@ -1,23 +1,22 @@
-
+[   
     {
         "iconUrl": "https://apkrabi.com/uploads/2023/4/vegamovies-icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 28138,
+        "fileSize": 17880,
         "status": 1,
-        "language": "hi",
+        "language": "ta",
         "authors": [
-            "megix"
+            "LikDev-256"
         ],
         "tvTypes": [
-            "TvSeries",
             "Movie",
-            "AsianDrama",
-            "Anime"
+            "TvSeries"
         ],
-        "version": 43,
-        "internalName": "VegaMovies",
-        "description": "Includes LuxMovies, Rogmovies",
+        "version": 1,
+        "internalName": "FDMProvider",
+        "description": "Indian Multi-language 4k Provider",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
-        "name": "VegaMovies"
+        "name": "Vega"
     },
+]
