@@ -1,4 +1,5 @@
-    {
+[
+{
         "iconUrl": "https://apkrabi.com/uploads/2023/4/vegamovies-icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
@@ -17,4 +18,5 @@
         "description": "Includes LuxMovies, Rogmovies",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
         "name": "VegaMovies"
-    }
+    },
+]
