@@ -1,0 +1,24 @@
+[
+    {
+        "iconUrl": "https://9kmovies.com/wp-content/uploads/2024/08/9kmoviescomm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 12881,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "salman731",
+            "Dilip"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "9kMovies",
+        "description": "Included:10HitMovies",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/9kMovies.cs3",
+        "name": "9kMovies"
+    }
+]
